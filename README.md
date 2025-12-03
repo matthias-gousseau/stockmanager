@@ -48,3 +48,12 @@ Déploiement et automatisation du projet, incluant **Docker**, **Docker Compose*
 ## 📦 Installation rapide
 
 Chaque partie possède ses propres instructions dans son repo dédié.
+
+---
+
+## 👨‍💻 Auteur
+
+**Matthias Gousseau**
+- GitHub: [@matthias-gousseau](https://github.com/matthias-gousseau)
+- LinkedIn: [Matthias Gousseau](https://www.linkedin.com/in/matthias-gousseau-998700170/)
+- Portfolio: [portfolio.matthiasgousseau.fr](https://portfolio.matthiasgousseau.fr)
